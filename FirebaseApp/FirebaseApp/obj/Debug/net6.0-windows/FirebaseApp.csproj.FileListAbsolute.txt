@@ -1,0 +1,100 @@
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.exe
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\flutter-test-f39d3-firebase-adminsdk-n0mzo-ce3003d2b3.json
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.deps.json
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.runtimeconfig.json
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.pdb
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseAdmin.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Firebase.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\LiteDB.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.AssemblyReference.cache
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.Form1.resources
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.GenerateResource.cache
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.AssemblyInfoInputs.cache
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.AssemblyInfo.cs
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.CopyComplete
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\refint\FirebaseApp.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.pdb
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.genruntimeconfig.cache
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\ref\FirebaseApp.dll
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.LoginForm.resources
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.ComplementaryActivityForm.resources
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.RegisterUserForm.resources
+C:\Users\Humberto Arzate\source\repos\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.ForgotUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.exe
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseAdmin.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Firebase.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\LiteDB.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.AssemblyReference.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.ComplementaryActivityForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.ForgotUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.Form1.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.LoginForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.RegisterUserForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.GenerateResource.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.AssemblyInfoInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.AssemblyInfo.cs
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.csproj.CopyComplete
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\refint\FirebaseApp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.deps.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.runtimeconfig.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\FirebaseApp.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\FirebaseApp.genruntimeconfig.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\obj\Debug\net6.0-windows\ref\FirebaseApp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\FirebaseApp\FirebaseApp\bin\Debug\net6.0-windows\vinculation-37b81-firebase-adminsdk-eatik-db78ff6ca8.json
